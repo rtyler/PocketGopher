@@ -62,7 +62,8 @@ public class MainActivity extends AppCompatActivity
             new Bookmark(this, "Search Veronica-2", "gopher.floodgap.com/1/v2")
                     .add(this);
             new Bookmark(this, "SDF", "sdf.org").add(this);
-            new Bookmark(this, "Khzae", "khzae.net").add(this);
+            new Bookmark(this, "Gopherpedia", "gopherpedia.com").add(this);
+            new Bookmark(this, "Gopher Project", "gopherproject.org").add(this);
         }
 
         Intent intent = getIntent();
